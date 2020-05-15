@@ -1,0 +1,16 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Ignore R data
+.RData
+.Rhistory
+
+# Ignore Mac
+.DS_Store
+
+# Ignore some large files
+data-zips/*
